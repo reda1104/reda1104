@@ -1,67 +1,43 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Mohamed Reda
+### Flutter Developer
 
-###
+I build Flutter apps with Dart, BLoC/Cubit, Firebase, REST APIs, and local storage. My projects cover shopping flows, news browsing, habit tracking, and location-based weather.
 
-<p align="left">My name is Mohamed and I'm a Mobile App Developer</p>
+Based in Egypt, with a B.Sc. in Computer Science from the Higher Technological Institute. Alongside development, I work as a Coding Mentor at iSchool, supporting instructors and contributing to Dart and Flutter learning content.
 
-###
+[Portfolio](https://reda1104.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/mohamed-reda-youssef/) · [Email](mailto:mohameded.reda204@gmail.com)
 
-<h2 align="left">About me</h2>
+## Featured projects
 
-###
+| Project | What I built | Main technologies |
+| --- | --- | --- |
+| [E-Commerce App](https://github.com/reda1104/e_commerce) | Firebase authentication, product browsing, saved favorites, and cart/checkout interfaces | Flutter, Cubit, Firebase Auth, Cloud Firestore |
+| [News App](https://github.com/reda1104/news_app) | Headlines, keyword search, article details, and locally saved favorites | Flutter, Cubit, Dio, NewsAPI, Hive |
+| [Habit Tracker](https://github.com/reda1104/Habit-Tracker) | Offline habit management, completion history, streaks, activity charts, and local reminders | Flutter, Provider, Hive, fl_chart |
+| [Weather App](https://github.com/reda1104/Weather-App) | City and location-based weather, pull-to-refresh, and animated weather displays | Flutter, BLoC, REST API, Geolocator |
 
-<h4 align="left">🌱 I’m always learning<br><br>💬 I enjoy solving problems and creating seamless user experiences through code.<br><br>📫 How to reach me mohameded.reda204@gmail.com<br><br>⚡ Check out some of my favorite projects below—each one reflects my journey and learning process.</h4>
+Each project README explains its features, code structure, setup, and implementation scope.
 
-###
+## Main toolkit
 
-<h2 align="left">I code with</h2>
+- **Mobile development:** Flutter and Dart
+- **State management:** BLoC, Cubit, and Provider
+- **Backend and APIs:** Firebase Authentication, Cloud Firestore, REST APIs, Dio, and HTTP
+- **Local storage:** Hive and SharedPreferences
+- **Tools:** Git, GitHub, Android Studio, and VS Code
 
-###
+My earlier experience includes native Android development with Java. I also teach programming and help learners turn technical concepts into practical projects.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
+## What I focus on
 
-###
+- Separating UI, state management, and data access.
+- Building reusable widgets and handling loading, empty, and error states.
+- Connecting apps to APIs and persisting data locally.
+- Improving existing projects through debugging, refactoring, and clearer documentation.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mohamed-reda-youssef/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="52" height="40" alt="visualstudio logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
-</div>
+## Get in touch
 
-###
+I'm interested in Flutter developer opportunities and mobile app projects.
 
-<p align="left"></p>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVvamx3NWQ0MmE0c2F5N3UxbDJwdWZ2dzdvdTB0MGJzY2Joc3VvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp"  />
-</div>
-
-###
+- **Email:** [mohameded.reda204@gmail.com](mailto:mohameded.reda204@gmail.com)
+- **LinkedIn:** [Mohamed Reda Youssef](https://www.linkedin.com/in/mohamed-reda-youssef/)
